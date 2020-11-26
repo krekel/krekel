@@ -1,10 +1,16 @@
-[![Header](https://raw.githubusercontent.com/krekel/<krekel>/<krekel>/readme_header.png "Header")](https://some-url.dev/)
+<!--[![krekel Header](https://i.imgur.com/iU8ctjW.jpeg)](https://krekelbits.wordpress.com/) -->
+### Software developer and CTF player interested in Malware Analysis and Reverse Engineering
+![Lockon-Dynames](https://i.imgur.com/TLjoach.gif)
 
-### Hi there 👋
+<!-- ### Repositories
+---
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krekel&repo=Minesweeper-Game-Trainer-Hack)](https://github.com/krekel/Minesweeper-Game-Trainer-Hack)
+### Github Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krekel&theme=nord" /> -->
+
 
 <!--
 **krekel/krekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
