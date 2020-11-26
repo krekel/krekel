@@ -1,5 +1,5 @@
 <!--[![krekel Header](https://i.imgur.com/iU8ctjW.jpeg)](https://krekelbits.wordpress.com/) -->
-### Software developer and CTF player interested in Malware Analysis and Reverse Engineering
+### :robot: Software developer and CTF player interested in Malware Analysis and Reverse Engineering
 ![Lockon-Dynames](https://i.imgur.com/TLjoach.gif)
 
 <!-- ### Repositories
